@@ -16,4 +16,4 @@ From PeerToPeerC: (Second user)
 
 The first argument is the absolute path to the folder to be shared. The second argument contains the path to a folder in which, if there is a file that also exists in the SHARED FOLDER, it is deleted from all the users.
 
-As shown in the previous example, the all the paths presented are different between them, this is done in order to avoid read and write errors.
+As shown in the previous example, all the all the absolute paths are different between them, this is done in order to avoid read and write errors.
